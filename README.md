@@ -6,11 +6,11 @@ Here i will share some tips and tricks on data engineering.
 
 ## Serverless 
 
-### Lambda function
+### AWS Lambda function
 
 we will create a Lambda function that is automatically triggered when a new file is uploaded to a specific S3 location.
 
-### Azure Blob Storage
+### Azure function
 
 we will create an azure function that is automatically triggered when a new file is uploaded to a specific Azure Blob Storage location.
 
