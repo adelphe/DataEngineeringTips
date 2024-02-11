@@ -8,7 +8,7 @@ Here i will share some tips and tricks on data engineering.
 
 ### AWS Lambda function
 
-we will create a Lambda function that is automatically triggered when a new file is uploaded to a specific S3 location.
+we will create a Lambda function that is automatically triggered when a new file is uploaded to a specific S3 location. We’ll use the AWS SDK for pandas library to convert a CSV file into Parquet format and then update AWS Glue Data Catalog.
 
 ### Azure function
 
